@@ -1,0 +1,11 @@
+{
+  "name"  : "kings/unserialize-object",
+  "keywords": ["distributed"],
+  "homepage": "http://www.limx.cn",
+  "license" : "MIT",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {“SlightPHP\\”:  "./"}
+  }
+}
