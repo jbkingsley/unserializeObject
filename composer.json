@@ -6,6 +6,6 @@
   "require": {
   },
   "autoload": {
-    "psr-4": {“SlightPHP\\”:  "./"}
+    "psr-4": {"SlightPHP\\":  "./"}
   }
 }
